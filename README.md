@@ -72,21 +72,40 @@ This demonstrates how insecure queries can expose all database records.
 
 ## 📸 Screenshots
 
-### 🔐 Login Page
+# 📸 Project Screenshots
 
-(Add Screenshot Here)
+## 🔐 Login Page
+![Login](app1.png)
 
-### 📊 Dashboard
+## 📝 Signup Page
+![Signup](app2.png)
 
-(Add Screenshot Here)
+## 📊 Dashboard
+![Dashboard](app3.png)
 
-### 🚨 SQL Injection Demo
+## ➕ Add Record
+![Add Record](app4.png)
 
-(Add Screenshot Here)
+## ✏️ Update Record
+![Update](app5.png)
 
-### 🛡 Secure Query Prevention
+## 🗑 Delete Record
+![Delete](app6.png)
 
-(Add Screenshot Here)
+## 🚨 SQL Injection Demo
+![SQL Injection](app7.png)
+
+## 🛡 Secure Query Prevention
+![Secure Query](app8.png)
+
+## 📈 Analytics Visualization
+![Analytics](app9.png)
+
+## 📝 Attack Logs
+![Logs](app10.png)
+
+## 📌 About Project
+![About](app11.png)
 
 ---
 
