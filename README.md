@@ -132,7 +132,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-Sam
+Samrudhi
 
 ---
 
