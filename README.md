@@ -147,6 +147,7 @@ Through this project, I learned:
 * Cloud database integration
 * Real-time monitoring dashboard
 
+“Parameterized queries prevent SQL injection by separating SQL logic from user input, ensuring that input is treated strictly as data and cannot alter the query structure.”
 ---
 
 ## 👨‍💻 Author
