@@ -138,6 +138,13 @@ Through this project, I learned:
 * Cybersecurity Concepts
 
 ---
+🔐 Security-Focused Lines
+Demonstrated how SQL Injection can bypass authentication systems.
+Implemented secure query handling to protect database operations from malicious inputs.
+Compared vulnerable SQL queries with secure parameterized queries.
+Improved application security by separating user input from SQL logic.
+
+---
 
 ## 📌 Future Improvements
 
